@@ -21,7 +21,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    Welcome to GitCode RK. <br>
+    Welcome to GitCode VRK. <br>
     
     <form action="slc">
     <input type="submit" value="Submit">
